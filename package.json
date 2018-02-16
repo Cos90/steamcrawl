@@ -4,7 +4,7 @@
   "description": "steam spy",
   "main": "index.js",
   "scripts": {
-    "test": "node index run"
+    "steam": "node steam run"
   },
   "author": "",
   "license": "ISC",
