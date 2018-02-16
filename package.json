@@ -1,0 +1,27 @@
+{
+  "name": "steamspy",
+  "version": "1.0.0",
+  "description": "steam spy",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index run"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.1",
+    "cheerio": "^1.0.0-rc.2",
+    "commander": "^2.14.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.2",
+    "iconv-lite": "^0.4.19",
+    "inquirer": "^5.1.0",
+    "lodash": "^4.17.5",
+    "moment": "^2.20.1",
+    "mysql": "^2.15.0",
+    "ora": "^1.4.0",
+    "request": "^2.83.0",
+    "tough-cookie": "^2.3.3",
+    "tough-cookie-filestore": "0.0.1"
+  }
+}
